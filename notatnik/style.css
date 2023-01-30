@@ -1,0 +1,21 @@
+#notebook {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #notes {
+    margin-top: 20px;
+  }
+  
+  .note {
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+  
+  .note h2 {
+    margin: 0;
+  }
+  
